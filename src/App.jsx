@@ -83,7 +83,7 @@ const App = () => {
                 </p>
               </div>
             ))}
-          </div>}
+          </div>} 
           {!loading && requestError && <p
             className="text-lg font-bold text-white leading-normal text-center py-5 bg-red-500 mt-5">
             Something went wrong
